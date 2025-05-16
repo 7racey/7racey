@@ -15,7 +15,7 @@
 - **Exploring:** Advanced analytics, machine learning integration in BI, and diving into the ever-expanding world of big data technologies.
 - **Championing:** Data democratization - making insights accessible to all stakeholders, not just the data experts.
 
-- - 📫 How to reach me **LinkedIn:** Tracey Apiyo ([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/tracey-a-50917116b/)) - Open to connecting with fellow data enthusiasts, engineers, and BI aficionados.
+- - 📫 How to reach me **LinkedIn:** Tracey Apiyo ((https://www.linkedin.com/in/tracey-a-50917116b/)) - Open to connecting with fellow data enthusiasts, engineers, and BI aficionados.
 
 #### 🛠️ Continuous Improvement:
 
